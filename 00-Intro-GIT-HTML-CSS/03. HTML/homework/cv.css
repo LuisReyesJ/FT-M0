@@ -1,0 +1,30 @@
+body{
+    background-image: url('bg01.png');
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.descripcion{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.contenedor{
+    background-color: #2f2f2f;
+    border-left: 3px solid whitesmoke;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #2f2f2f;
+    color: white;
+    padding: 5px 0;
+    text-align: center;
+    font-weight: bold;
+}
