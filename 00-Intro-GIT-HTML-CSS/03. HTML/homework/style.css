@@ -1,20 +1,54 @@
+body{
+    background-image: url('bg01.png');
+}
+
 h1{
     color: peru;
+}
+
+h3{
+    color: yellow;
+}
+
+h4{
+    color: white;
+}
+
+h1, h3, h4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
 }
 
 img{
     width: 400px;
 }
 
+div{
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color: purple;
+    background-color: #2f2f2f;
     padding: 50px;
-    border: 5px solid blue;
+    border: 5px solid whitesmoke;
+    margin-top: 40px;
 }
 
 #spanId{
-    font-size: 18px;
     margin: 50px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+a{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
 }
