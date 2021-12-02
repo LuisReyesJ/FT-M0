@@ -1,0 +1,27 @@
+-----------------------------
+  INTRODUCCIÓN A JAVASCRIPT
+-----------------------------
+
+* Las Variables:
+
+Las variables son espacios en memoria, como una caja en donde vas a almacenar algo, en programación es una espacio en donde puedes almacenar datos, como por ejemplo: String o cadenas de texto, Números enteros o Decimales, booleanos o datos mas avanzados como arrays, objetos, etc.
+
+* Strings
+
+El tipo de dato String son cadenas de texto, es un tipo de dato que puedes almacenar en una variable, está conformado por comillas dobles o comillas simples, y entre las comillas puede ir el contenido que desees, como por ejemplo: tu nombre, tu direccion, tu apellido, el nombre de tu país, etc.
+
+* Funciones
+
+Las funciones son un conjunto de código que realizan una acción y se pueden reutilizar, en diferentes partes del documento.
+
+Argumentos:.- Los argumentos son variables que le pasamos a la función para que lleve a cabo una acción haciendo uso de las variables.
+
+Return:.- El return básicamente sirve para retornar un resultado hacia una variable o simplemente imprimiendolo en consola.
+
+* Control de Flujo ( IF - ELSE)
+
+IF - ELSE nos permite evaluar una o varias condiciones para poder tomar una mejor decisión.
+
+* Valores booleanos
+
+Los valores booleanos son true y false, que indica si es verdadero o falso, lo podemos almacenar en una variable.
