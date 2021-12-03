@@ -1,0 +1,7 @@
+* For
+
+El for es una iteración, nos sirve para realizar una acción varias veces según lo indicado en la condición.
+
+* Signos de Comparación (&& || !)
+
+Nos sirven para comprar en las condiciones de los datos.
