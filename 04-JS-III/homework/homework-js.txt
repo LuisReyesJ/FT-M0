@@ -1,0 +1,3 @@
+* Array
+
+Los arrays son variables que puedes almacenar varios tipos de datos, desde números enteros, decimales, cadenas de texto, booleans o objetos.
